@@ -1,4 +1,5 @@
-export const API_KEY = 'AIzaSyCp3bW1pTSWk7DsgYdM_zFH8inrbxYsaUk';
+//provide your api secret key here
+export const API_KEY = '';
 
 export const valueConverter = (value) => {
     if(value >= 1000000)
